@@ -1,1 +1,8 @@
 ﻿hello from TestRepo
+hello again from VS Code
+hello again from VS Code second test
+hello from TestRepo
+hello again from VS Code
+hello again from VS Code second test
+hello line three really saved this time
+one more line
