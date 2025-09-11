@@ -1,0 +1,15 @@
+D:\GITHUB REPOSITORIES\Work_Pays_Network_Clean\TestRepo\HelloWorld\bin\Debug\net9.0\HelloWorld.exe
+D:\GITHUB REPOSITORIES\Work_Pays_Network_Clean\TestRepo\HelloWorld\bin\Debug\net9.0\HelloWorld.deps.json
+D:\GITHUB REPOSITORIES\Work_Pays_Network_Clean\TestRepo\HelloWorld\bin\Debug\net9.0\HelloWorld.runtimeconfig.json
+D:\GITHUB REPOSITORIES\Work_Pays_Network_Clean\TestRepo\HelloWorld\bin\Debug\net9.0\HelloWorld.dll
+D:\GITHUB REPOSITORIES\Work_Pays_Network_Clean\TestRepo\HelloWorld\bin\Debug\net9.0\HelloWorld.pdb
+D:\GITHUB REPOSITORIES\Work_Pays_Network_Clean\TestRepo\HelloWorld\obj\Debug\net9.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+D:\GITHUB REPOSITORIES\Work_Pays_Network_Clean\TestRepo\HelloWorld\obj\Debug\net9.0\HelloWorld.AssemblyInfoInputs.cache
+D:\GITHUB REPOSITORIES\Work_Pays_Network_Clean\TestRepo\HelloWorld\obj\Debug\net9.0\HelloWorld.AssemblyInfo.cs
+D:\GITHUB REPOSITORIES\Work_Pays_Network_Clean\TestRepo\HelloWorld\obj\Debug\net9.0\HelloWorld.csproj.CoreCompileInputs.cache
+D:\GITHUB REPOSITORIES\Work_Pays_Network_Clean\TestRepo\HelloWorld\obj\Debug\net9.0\HelloWorld.sourcelink.json
+D:\GITHUB REPOSITORIES\Work_Pays_Network_Clean\TestRepo\HelloWorld\obj\Debug\net9.0\HelloWorld.dll
+D:\GITHUB REPOSITORIES\Work_Pays_Network_Clean\TestRepo\HelloWorld\obj\Debug\net9.0\refint\HelloWorld.dll
+D:\GITHUB REPOSITORIES\Work_Pays_Network_Clean\TestRepo\HelloWorld\obj\Debug\net9.0\HelloWorld.pdb
+D:\GITHUB REPOSITORIES\Work_Pays_Network_Clean\TestRepo\HelloWorld\obj\Debug\net9.0\HelloWorld.genruntimeconfig.cache
+D:\GITHUB REPOSITORIES\Work_Pays_Network_Clean\TestRepo\HelloWorld\obj\Debug\net9.0\ref\HelloWorld.dll
